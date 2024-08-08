@@ -1,4 +1,4 @@
-<header id="rtsHeader" class="rts-header1">
+<header id="rtsHeader" class="rts-header1 component">
     @include('includes.nav')
     <!--================= Banner Section Start Here =================-->
     <div class="banner banner1">

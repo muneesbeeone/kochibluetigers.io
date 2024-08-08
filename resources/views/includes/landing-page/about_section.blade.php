@@ -1,4 +1,4 @@
-<div id="About" class="rts-about-section section-gap">
+<div id="About" class="rts-about-section section-gap component">
     <div class="shape1"><img src="assets/images/about/shape2.png" alt=""></div>
     <div class="shape2"><img src="assets/images/cricket-player.png" alt=""></div>
     <div class="container-1">

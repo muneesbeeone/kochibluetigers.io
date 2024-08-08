@@ -1,4 +1,4 @@
-<div id="Gallery" class="rts-gallery-section home-four nfl">
+<div id="Gallery" class="rts-gallery-section home-four nfl component">
     <div class="container">
         <div class="top-wrap">
             <div class="section-title-area section-title-area1">

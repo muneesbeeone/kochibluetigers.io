@@ -1,5 +1,5 @@
-<section id="News" class="rts-trending-news-section2 home-four pt--100 pb--100">
-    <div class="container">
+<section id="News" class="rts-trending-news-section2 home-four pt--100 pb--100 component">
+    <div class="container" id="Home">
         <div class="section-inner">
             <div class="section-title-area section-ttile-area2" style="display: flex;justify-content: space-between">
                 <h1 class="section-title">LATEST NEWS</h1>

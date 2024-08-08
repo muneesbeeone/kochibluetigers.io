@@ -1,4 +1,4 @@
-<div class="rts-gallery-section">
+<div class="rts-gallery-section component" >
     <div class="container">
         {{-- <div class="top-wrap">
             <div class="filter-button-group">

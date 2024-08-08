@@ -1,4 +1,4 @@
-<div id="Team" class="rts-team-section section-gap">
+<div id="Team" class="rts-team-section section-gap component">
     <div class="container">
         <div class="section-title-area section-title-area1 text-center mb--50">
             <span class="pretitle">PLAYERS</span>

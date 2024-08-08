@@ -1,4 +1,4 @@
-<section class="news-feed-section terms-and-conditions section-gap">
+<section class="news-feed-section terms-and-conditions section-gap component" >
     <div class="container">
 <div style="display: flex;flex-direction: column;gap: 10px">
     <h1 class="text-black mt-2">Terms and Conditions</h1>

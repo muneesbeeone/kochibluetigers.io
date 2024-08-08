@@ -7439,7 +7439,7 @@ tr:first-child {
   position: absolute;
   height: 66%;
   width: 1px;
-  background: #773435;
+  background: #fff;
   top: 4px;
   right: -10px;
 }
@@ -7453,7 +7453,7 @@ tr:first-child {
   margin-left: 3px;
 }
 .page-path a.home-page-link {
-  color: #e6a3a1;
+  color: #fff;
 }
 .page-path a.current-page {
   color: #fff;

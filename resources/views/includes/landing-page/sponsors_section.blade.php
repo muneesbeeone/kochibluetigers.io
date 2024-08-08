@@ -1,4 +1,4 @@
-<div id="Sponsors" class="rts-sponsors-section section-gap">
+<div id="Sponsors" class="rts-sponsors-section section-gap component">
     <div class="container">
         <div class="section-title-area section-title-area1 text-center mb--50">
             <span class="pretitle">SPONSOR</span>

@@ -1,4 +1,4 @@
-<section class="news-feed-section priacy-policy section-gap">
+<section class="news-feed-section priacy-policy section-gap component">
     <div class="container">
 <div style="display: flex;flex-direction: column;gap: 10px">
     <h1 class="text-black">Privacy Policy</h1>

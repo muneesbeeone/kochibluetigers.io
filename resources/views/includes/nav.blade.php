@@ -10,7 +10,7 @@
                 <div class="rts-menu">
                     <nav class="menus menu-toggle">
                         <ul class="nav__menu">
-                            <li ><a class="menu-item active1" href="/#">Home</a></li>
+                            <li ><a class="menu-item" href="/#rtsHeader">Home</a></li>
                             <li><a class="menu-item" href="/#About">About</a></li>
                             <li ><a class="menu-item" href="/#Sponsors">Sponsors</a></li>
                             <li class="has-dropdown"><a class="menu-item" href="/#News">News</a>
@@ -51,7 +51,7 @@
     <nav class="side-mobile-menu side-mobile-menu1">
         <ul id="mobile-menu-active">
             <li class="">
-                <a class="mm-link" href="/#">Home </a>
+                <a class="mm-link" href="/#rtsHeader">Home </a>
             </li>
             <li><a class="mm-link" href="#About">About</a></li>
             <li class="">
