@@ -1435,36 +1435,39 @@
 			document.querySelector('#one').value = this.value
 		};
 	}
-	$(document).ready(function() {
-		// Cache selectors for better performance
-		const components = $('.component');
-		const navLinks = $('.nav__menu .menu-item');
-	
-		function updateActiveLink() {
-			let currentComponent = '';
-	
-			components.each(function() {
-				const componentTop = $(this).offset().top - $(window).height() / 3;
-				const componentBottom = componentTop + $(this).outerHeight();
-	
-				if ($(window).scrollTop() >= componentTop && $(window).scrollTop() < componentBottom) {
-					currentComponent = $(this).attr('id');
-				}
-			});
-	
-			// Update the active link
-			navLinks.removeClass('active1');
-			navLinks.each(function() {
-				if ($(this).attr('href').includes(currentComponent)) {
-					$(this).addClass('active1');
-				}
-			});
-		}
-	
-		// Run the function on page load and on scroll
-		updateActiveLink();
-		$(window).on('scroll', updateActiveLink);
-	});
+	 // Cache selectors for better performance
+	 const components = $('.component');
+	 const navLinks = $('.nav__menu .menu-item');
+ 
+	 function updateActiveLink() {
+		 let currentComponent = '';
+ 
+		 // Check if the user is at the top of the page
+		 if ($(window).scrollTop() === 0) {
+			 currentComponent = 'rtsHeader'; // or whatever ID you use for the Home component
+		 } else {
+			 components.each(function() {
+				 const componentTop = $(this).offset().top - $(window).height() / 3;
+				 const componentBottom = componentTop + $(this).outerHeight();
+ 
+				 if ($(window).scrollTop() >= componentTop && $(window).scrollTop() < componentBottom) {
+					 currentComponent = $(this).attr('id');
+				 }
+			 });
+		 }
+ 
+		 // Update the active link
+		 navLinks.removeClass('active1');
+		 navLinks.each(function() {
+			 if ($(this).attr('href').includes(currentComponent)) {
+				 $(this).addClass('active1');
+			 }
+		 });
+	 }
+ 
+	 // Run the function on page load and on scroll
+	 updateActiveLink();
+	 $(window).on('scroll', updateActiveLink);
 	
 
 })(jQuery);

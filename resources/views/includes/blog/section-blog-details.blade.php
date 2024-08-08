@@ -1,4 +1,4 @@
-<section class="rts-blog-details news-feed-section section-gap">
+<section class="rts-blog-details news-feed-section section-gap component">
     <div class="container">
         <div class="row">
             <div class="col-xl-8 left-news-col">

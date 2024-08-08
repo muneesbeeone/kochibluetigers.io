@@ -1,4 +1,4 @@
-<div class="contact-area">
+<div class="contact-area component">
     <div class="container">
         <!-- <div class="address-box">
             <div class="row align-items-center">

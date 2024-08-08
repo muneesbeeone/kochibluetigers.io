@@ -1,4 +1,4 @@
-<section class="news-feed-section section-gap">
+<section class="news-feed-section section-gap component">
     <div class="container">
         <div class="row mb-15">
             <div class="col-xl-9 col-md-8">
