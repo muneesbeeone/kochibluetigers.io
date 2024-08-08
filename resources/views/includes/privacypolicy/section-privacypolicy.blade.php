@@ -191,7 +191,7 @@
     <p>Please contact us if you would like to exercise your rights, which most of the time you can do for free. In some circumstances, applicable privacy laws allow us to charge a fee or to refuse your request. If we wish to charge a fee or refuse your request, we will inform you in writing and set out the reasons. Otherwise, we will always respond within one month (unless there is a legal reason for us to take longer).</p>
     <p>If it is not clear to us who is making the request, we may ask you to confirm your identity before we proceed.</p>
     <p>You may also contact the data protection authority where you live if you have any concerns about the way we are handling your Personal Information. However, where possible, please speak to us first as we would appreciate the opportunity to help with your concern.</p>
-    <h6 class="text-black">Contact Us</h6>
+    <h5 class="text-black">Contact Us</h5>
     <p>For any questions regarding this policy, or to exercise your rights, please email us at <a class="text-black" href="mailto:contact@kochibluetigers.com">contact@kochibluetigers.com</a> </p>
 </div>
     </div>
