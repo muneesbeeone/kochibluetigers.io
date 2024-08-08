@@ -1,0 +1,40 @@
+{
+    "news": [
+      {
+        "title": "India Clinches Series with Thrilling Victory",
+        "date": "2024-08-07",
+        "author": "John Doe",
+        "content": "In an electrifying match, India managed to clinch the series with a last-over victory against Australia. The match saw brilliant performances from Virat Kohli and Jasprit Bumrah.",
+        "image_url": "https://example.com/images/india_victory.jpg"
+      },
+      {
+        "title": "England Defeats New Zealand in T20 Clash",
+        "date": "2024-08-06",
+        "author": "Jane Smith",
+        "content": "England emerged victorious in the T20 clash against New Zealand, with Ben Stokes playing a match-winning innings. The bowlers also performed exceptionally well to restrict New Zealand.",
+        "image_url": "https://example.com/images/england_nz.jpg"
+      },
+      {
+        "title": "South Africa's Test Win Over Sri Lanka",
+        "date": "2024-08-05",
+        "author": "Mike Johnson",
+        "content": "South Africa secured a comprehensive Test win over Sri Lanka, thanks to a stellar performance from their bowlers and a solid century from Quinton de Kock.",
+        "image_url": "https://example.com/images/sa_sri_lanka.jpg"
+      },
+      {
+        "title": "Pakistan Announces Squad for Upcoming Series",
+        "date": "2024-08-04",
+        "author": "Emily Davis",
+        "content": "Pakistan Cricket Board has announced the squad for the upcoming series against Bangladesh. Babar Azam will lead the team, with several young players getting an opportunity to prove themselves.",
+        "image_url": "https://example.com/images/pak_squad.jpg"
+      },
+      {
+        "title": "Australia Prepares for Ashes Series",
+        "date": "2024-08-03",
+        "author": "Alex Brown",
+        "content": "The Australian cricket team is gearing up for the much-anticipated Ashes series against England. With a balanced team and home advantage, they are looking forward to a challenging series.",
+        "image_url": "https://example.com/images/ashes_preparation.jpg"
+      }
+    ]
+  }
+  
